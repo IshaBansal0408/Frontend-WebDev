@@ -1,0 +1,14 @@
+h2 + p{
+    font-weight: bold;
+}
+h2 ~ p {
+     color: red;
+}
+
+section h2{
+    color:blue;
+}
+
+section>p{
+    color: chartreuse;
+}

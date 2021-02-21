@@ -1,0 +1,35 @@
+body{
+    background-color: darkgreen;
+}
+h1{
+    color: white;
+}
+.div1{
+    color: tomato;
+}
+#div2{
+    color: thistle;
+}
+.p1{
+    color: violet;
+}
+#p2{
+    color: yellow;
+}
+
+input[disabled]{
+    width: 300px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
+
+input[type="password"]{
+    background-color: red;
+    font-size: 20px;
+}
+
+input[type='number']{
+    font-size:20px;
+    background-color: blueviolet;
+}

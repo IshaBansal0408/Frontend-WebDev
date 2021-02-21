@@ -1,0 +1,31 @@
+#box{
+    width: 140px;
+    height: 200px;
+    background-color: chartreuse;
+    color: black;
+}
+
+#box:hover{
+    background-color: brown;
+}
+
+#box1{
+    width: 140px;
+    height: 200px;
+    background-color:darkgreen;
+    color: wheat;
+}
+
+#box1:active{
+    background-color:blueviolet;
+}
+
+#box2{
+    background-color:darkred;
+    color: wheat;
+}
+
+#box2:focus{
+    font-size: 30px;
+    background-color:black;
+}
