@@ -1,0 +1,30 @@
+div{
+    background-color: blueviolet;
+    color: chartreuse;
+    width: 130px;
+    height: 130px;
+}
+
+.d2{
+    transform: translateX(300px);
+}
+.d3{
+    transform: translateY(-120px);
+}
+
+.d4{
+    transform:scale(0.5,0.5);
+}
+.d5{
+    transform: scale(1.2,1.2);
+}
+
+.d6{
+    transform:rotateX(45deg)
+}
+.d7{
+    transform: rotateY(45deg);
+}
+.d8{
+    transform: rotateZ(45deg);
+}
