@@ -29,3 +29,37 @@
     font-size: 30px;
     background-color:black;
 }
+
+#button1{
+    margin: 20px;
+    width: 200px;
+    height: 120px;
+    background-color:darkmagenta;
+    color:white;
+    font-size: 40px;
+    box-shadow:red -20px 20px 20px;
+}
+
+#button1:hover{
+    background-color: black;
+    transform: translateX(-10px);
+    box-shadow: brown -5px 5px 5px;
+    transition: 3s;
+}
+
+#button2{
+    margin: 20px;
+    width: 200px;
+    height: 120px;
+    background-color:darkmagenta;
+    color:white;
+    font-size: 40px;
+    box-shadow:red -20px 20px 20px;
+}
+
+#button2:active{
+    background-color: black;
+    transform: translateX(-10px);
+    box-shadow: brown -5px 5px 5px;
+    transition: 3s;
+}

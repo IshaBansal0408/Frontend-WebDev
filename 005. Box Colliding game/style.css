@@ -1,0 +1,32 @@
+.container{
+    width: 400px;
+    height: 400px;
+    background-color: green;
+}
+.block{
+    transform: translateX(30px);
+}
+.block{
+    margin: 5px;
+    width:90px;
+    height:90px;
+    background-color:wheat;
+    display: inline-block;
+    border-radius: 10px;
+    border:solid black;
+}
+.one{
+    animation: animation_name 5s infinite;
+}
+@keyframes animation_name{
+    0%{
+        background-color: cyan;
+    }
+    50%{
+        background-color: blueviolet;
+        transform: translatey(290px);
+    }
+    100%{
+        background-color: red;
+    }
+}
