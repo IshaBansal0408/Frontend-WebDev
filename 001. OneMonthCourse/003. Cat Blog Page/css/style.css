@@ -1,0 +1,30 @@
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+     box-sizing: border-box; /* IE */
+}
+.clear {
+	clear: both;
+}
+
+#header{
+     background: Silver;
+     padding: 50px;}
+#main {
+     background: SkyBlue;
+     padding: 50px;}
+#footer{
+     background: PeachPuff;
+     padding: 50px;}
+#main{
+     background: SkyBlue;
+     padding: 50px;
+     width: 700px;
+     float: left;}
+#sidebar{
+     background: Pink;
+     width: 300px;
+     float: left;
+     padding: 50px;}
+img{
+     float: left;}
