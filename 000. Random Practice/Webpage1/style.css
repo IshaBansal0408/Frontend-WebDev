@@ -1,0 +1,16 @@
+body{
+    background-image:url("https://image.freepik.com/free-vector/gradient-background-green-shades_23-2148363157.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+div{
+    border: solid black 1px;
+    text-align: center;
+    width: 500px;
+    transform: translateX(500px);
+}
+
+p{
+    font-size: 20px;
+}

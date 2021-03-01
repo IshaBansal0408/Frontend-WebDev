@@ -1,0 +1,17 @@
+body{
+    background-image:url("https://i.pinimg.com/originals/62/2f/c3/622fc384da3cf92e94dfb115ffe961a8.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+div{
+    border: solid white 1px;
+    color: white;
+    text-align: center;
+    width: 500px;
+    transform: translateX(500px);
+}
+
+p{
+    font-size: 20px;
+}
